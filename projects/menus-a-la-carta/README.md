@@ -12,8 +12,10 @@ PROGRAMA PARA EL PROYECTO FINAL DE CURSO DE LA ASIGNATURA "PROGRAMACIÓN EN LENG
 AUTOR: ABRAHAM MESA MESA
 FECHA: 13/06/2011
 
-Árbol de contenido de esta carpeta: 1. ACCESO DIRECTO: Menus a la carta
-Ejecuta la aplicación a pantalla completa.
+Árbol de contenido de esta carpeta:
+
+    1. ACCESO DIRECTO: Menus a la carta
+		Ejecuta la aplicación a pantalla completa.
 
     2. Leeme.txt
     	Archivo con información sobre el contenido
