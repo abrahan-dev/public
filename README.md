@@ -24,4 +24,4 @@ You'll find a folder for each topic in the root folder. KIS, right?.
 | [Data structures](data-structures) | About data structures:                                                           |
 |                                    | - [Array](data-structures/array.ts)                                              |
 | [Problems](problems)               | Programming problems:                                                            |
-|                                    | - [Running sum](problems/easy/running_sum.ts) Running sum                        |
+|                                    | - [Running sum](problems/easy/running_sum.ts)                                    |

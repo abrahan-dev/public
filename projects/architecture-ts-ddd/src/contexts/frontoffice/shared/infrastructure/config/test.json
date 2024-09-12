@@ -1,0 +1,6 @@
+{
+    "typeorm": {
+        "port": 33062,
+        "database": "db_frontoffice_backend_test"
+    }
+}
