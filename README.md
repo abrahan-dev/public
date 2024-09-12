@@ -9,8 +9,6 @@ Feel free to browse or share your feedback!
 
 ## Index
 
-You'll find a folder for each topic in the root folder. KIS, right?.
-
 | Folder          | Content                                                                          |
 | --------------- | -------------------------------------------------------------------------------- |
 | cv              | [My professional history](cv/README.md) 💼                                       |
