@@ -25,3 +25,7 @@ Feel free to browse or share your feedback!
 |                 | - [Array](data-structures/array.ts)                                              |
 | problems        | Programming problems:                                                            |
 |                 | - [Running sum](problems/easy/running_sum.ts)                                    |
+| technical-tests | Technical tests:                                                                 |
+|                 | - [Promo coder](technical-tests/promo-coder/README.md)                           |
+|                 | - [Reconciler](technical-tests/reconciler/README.md)                             |
+|                 | - [War game](technical-tests/war-game/README.md)                                 |
