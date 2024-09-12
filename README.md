@@ -17,6 +17,7 @@ Feel free to browse or share your feedback!
 | tests           | Tests for executable code. `bun test`. See [bun](https://bun.sh)                 |
 | projects        | Application learning projects:                                                   |
 |                 | - [Architecture for typescript with DDD](projects/architecture-ts-ddd/README.md) |
+|                 | - [Menus a la carta](projects/menus-a-la-carta/README.md)                        |
 | posts           | Blog:                                                                            |
 |                 | -                                                                                |
 | algorithms      | About algorithms:                                                                |
