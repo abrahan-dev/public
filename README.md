@@ -11,17 +11,17 @@ Feel free to browse or share your feedback!
 
 You'll find a folder for each topic in the root folder. KIS, right?.
 
-| Folder                             | Content                                                                          |
-| ---------------------------------- | -------------------------------------------------------------------------------- |
-| [Curriculum vitae](cv/README.md)   | My professional history 💼                                                       |
-| Tests                              | Tests. `bun test`. See [bun](https://bun.sh)                                     |
-| Projects                           | Application learning projects:                                                   |
-|                                    | - [Architecture for typescript with DDD](projects/architecture-ts-ddd/README.md) |
-| [Posts](posts)                     | Blog:                                                                            |
-|                                    |                                                                                  |
-| [Algorithms](algorithms)           | About algorithms:                                                                |
-|                                    |                                                                                  |
-| [Data structures](data-structures) | About data structures:                                                           |
-|                                    | - [Array](data-structures/array.ts)                                              |
-| [Problems](problems)               | Programming problems:                                                            |
-|                                    | - [Running sum](problems/easy/running_sum.ts)                                    |
+| Folder          | Content                                                                          |
+| --------------- | -------------------------------------------------------------------------------- |
+| cv              | [My professional history](cv/README.md) 💼                                       |
+| tests           | Tests for executable code. `bun test`. See [bun](https://bun.sh)                 |
+| projects        | Application learning projects:                                                   |
+|                 | - [Architecture for typescript with DDD](projects/architecture-ts-ddd/README.md) |
+| posts           | Blog:                                                                            |
+|                 | -                                                                                |
+| algorithms      | About algorithms:                                                                |
+|                 | -                                                                                |
+| data-structures | About data structures:                                                           |
+|                 | - [Array](data-structures/array.ts)                                              |
+| problems        | Programming problems:                                                            |
+|                 | - [Running sum](problems/easy/running_sum.ts)                                    |
