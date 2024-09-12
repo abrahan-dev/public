@@ -14,7 +14,7 @@ You'll find a folder for each topic in the root folder. KIS, right?.
 | Folder                             | Content                                                                        |
 | ---------------------------------- | ------------------------------------------------------------------------------ |
 | [Curriculum vitae](cv/README.md)   | My professional history 💼                                                     |
-| Tests                              | Tests. `bun test` (you'll need to install [bun](https://bun.sh))               |
+| Tests                              | Tests. `bun test`. You'll need to install [bun](https://bun.sh)                |
 | Projects                           |                                                                                |
 |                                    | [Architecture for typescript with DDD](projects/architecture-ts-ddd/README.md) |
 | [Posts](posts)                     | Blog                                                                           |
@@ -22,6 +22,6 @@ You'll find a folder for each topic in the root folder. KIS, right?.
 | [Algorithms](algorithms)           | About algorithms                                                               |
 |                                    |                                                                                |
 | [Data structures](data-structures) | About data structures                                                          |
-|                                    | [array](data-structures/array.ts)                                              |
-| [Problems](problems)               | Programming problems                                                           |
-|                                    | [running sum](problems/easy/running_sum.ts)                                    |
+|                                    | - [Array](data-structures/array.ts)                                            |
+| [Problems](problems)               | Programming problems like Leetcode                                             |
+|                                    | - [Running sum](problems/easy/running_sum.ts) Running sum                      |
