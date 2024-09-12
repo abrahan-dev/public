@@ -26,7 +26,7 @@ Feel free to browse or share your feedback!
 |                 | - [Array](data-structures/array.ts)                                              |
 | problems        | Programming problems:                                                            |
 |                 | - [Running sum](problems/easy/running_sum.ts)                                    |
-| tutorials       | Instructions followed to learn about something new                               |
+| tutorials       | Instructions followed to learn about something new. [Link](tutorials/README.md)  |
 | technical-tests | Technical tests:                                                                 |
 |                 | - [Promo coder](technical-tests/promo-coder/README.md)                           |
 |                 | - [Reconciler](technical-tests/reconciler/README.md)                             |
