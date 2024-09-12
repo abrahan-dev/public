@@ -1,0 +1,29 @@
+version: '3.8'
+
+services:
+  db_frontoffice_backend_dev:
+    container_name: db_frontoffice_backend_dev
+    image: mysql:8.0.33
+    restart: always
+    environment:
+      - MYSQL_ROOT_PASSWORD=yeti
+      - MYSQL_DATABASE=db_frontoffice_backend_dev
+    ports:
+      - '33061:3306'
+
+  db_frontoffice_backend_test:
+    container_name: db_frontoffice_backend_test
+    image: mysql:8.0.33
+    restart: always
+    environment:
+      - MYSQL_ROOT_PASSWORD=yeti
+      - MYSQL_DATABASE=db_frontoffice_backend_test
+    ports:
+      - '33062:3306'
+
+  queue_rabbitmq_test:
+    image: 'rabbitmq:3.11-management'
+    restart: always
+    ports:
+      - 33070:5672
+      - 33071:15672
