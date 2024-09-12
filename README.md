@@ -3,8 +3,10 @@
 Welcome!
 
 I learn by taking notes and writing down opinions and knowledge.
+
 This repository is a collection of public content related to programming learning projects, problems, computer science and ideas I’ve explored while learning new things.
 It’s also a space where I share my thoughts and experiences in development, hoping they might inspire or help others.
+
 Feel free to browse or share your feedback!
 
 ## Index
