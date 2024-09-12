@@ -1,0 +1,32 @@
+GET http://localhost:3000/coffees?limit=4&offset=1
+
+###
+
+GET http://localhost:3000/coffees/abc
+Authorization: 123456789
+
+###
+
+POST http://localhost:3000/coffees
+content-type: application/json
+
+{
+    "name": "Madagascar x",
+    "brand": "Carrefour x",
+    "flavors": ["strawberry"]
+}
+
+###
+
+PATCH http://localhost:3000/coffees/1
+Content-Type: application/json
+
+{
+    "name": "Colombia"
+}
+
+###
+
+DELETE http://localhost:3000/coffees/1
+
+###
