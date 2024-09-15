@@ -21,14 +21,14 @@ Feel free to browse or share your feedback!
 | posts           | Blog:                                                                            |
 |                 | - [Transactions](posts/2024-09-09-transactions.md)                               |
 |                 | - [Exceptions and errors](posts/2024-08-26-exceptions-and-errors.md)             |
-|                 | - [Good code](posts/2023-09-14-good-code.md)                                     |
+|                 | - ❤️ [Good code](posts/2023-09-14-good-code.md)                                  |
 |                 | - [Backend notes](posts/2023-07-28-backend-notes.md)                             |
 |                 | - [Node.js Part 3](posts/2023-07-14-node-js-3.md)                                |
 |                 | - [Node.js Part 2](posts/2023-07-11-node-js-2.md)                                |
 |                 | - [Node.js Part 1](posts/2023-07-10-node-js-1.md)                                |
 |                 | - [Algorithms](posts/2023-01-03-algorithms.md)                                   |
-|                 | - [Simplicity in code](posts/2022-11-10-simplicity-in-code.md)                   |
-|                 | - [10 years programming](posts/2022-11-04-ten-years-programming.md)              |
+|                 | - ❤️ [Simplicity in code](posts/2022-11-10-simplicity-in-code.md)                |
+|                 | - ❤️ [10 years programming](posts/2022-11-04-ten-years-programming.md)           |
 |                 | - [Testing](posts/2020-02-21-testing.md)                                         |
 |                 | - [Code Review](posts/2019-03-25-code-review.md)                                 |
 |                 | - [Rest APIs](posts/2017-05-20-rest-apis.md)                                     |
@@ -49,6 +49,6 @@ Feel free to browse or share your feedback!
 |                 | - 🟢 [Truncate string](problems/easy/truncate_string.ts)                         |
 | tutorials       | Instructions followed to learn about something new. [Link](tutorials/README.md)  |
 | technical-tests | Technical tests:                                                                 |
-|                 | - [Promo coder](technical-tests/promo-coder/README.md)                           |
-|                 | - [Reconciler](technical-tests/reconciler/README.md)                             |
-|                 | - [War game](technical-tests/war-game/README.md)                                 |
+|                 | - 😤 [Promo coder](technical-tests/promo-coder/README.md)                        |
+|                 | - 🙂 [Reconciler](technical-tests/reconciler/README.md)                          |
+|                 | - 😍 [War game](technical-tests/war-game/README.md)                              |
