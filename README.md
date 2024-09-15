@@ -14,7 +14,7 @@ Feel free to browse or share your feedback!
 | Folder          | Content                                                                          |
 | --------------- | -------------------------------------------------------------------------------- |
 | cv              | [My professional history](cv/README.md) 💼                                       |
-| tests           | Tests for executable code. `bun test`. See [bun](https://bun.sh)                 |
+| tests           | Tests for executable code. `bun run test`. See [bun](https://bun.sh)             |
 | projects        | Application learning projects:                                                   |
 |                 | - [Architecture for typescript with DDD](projects/architecture-ts-ddd/README.md) |
 |                 | - [Menus a la carta](projects/menus-a-la-carta/README.md)                        |
@@ -39,7 +39,14 @@ Feel free to browse or share your feedback!
 | data-structures | About data structures:                                                           |
 |                 | - [Array](data-structures/array.ts)                                              |
 | problems        | Programming problems:                                                            |
-|                 | - [Running sum](problems/easy/running_sum.ts)                                    |
+|                 | - 🟢 [Running sum](problems/easy/running_sum.ts)                                 |
+|                 | - 🟢 [Factorial](problems/easy/factorial.ts)                                     |
+|                 | - 🟢 [Find longest word length](problems/easy/find_longest_word_length.ts)       |
+|                 | - 🟢 [Largest number of each](problems/easy/largest_number_of_each.ts)           |
+|                 | - 🟢 [Palindrome](problems/easy/palindrome.ts)                                   |
+|                 | - 🟢 [Reverse string](problems/easy/reverse_string.ts)                           |
+|                 | - 🟢 [Title case](problems/easy/title_case.ts)                                   |
+|                 | - 🟢 [Truncate string](problems/easy/truncate_string.ts)                         |
 | tutorials       | Instructions followed to learn about something new. [Link](tutorials/README.md)  |
 | technical-tests | Technical tests:                                                                 |
 |                 | - [Promo coder](technical-tests/promo-coder/README.md)                           |
