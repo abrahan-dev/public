@@ -2,9 +2,9 @@
 
 Welcome!
 
-I learn by taking notes and writing down opinions and knowledge.
+I learn by taking notes and writing down opinions and ideas.
 
-This repository is a collection of public content related to programming learning projects, problems, computer science and ideas I’ve explored while learning new things.
+This repository is a collection of public content related to programming learning projects, problems, computer science and programming knowledge I’ve explored while learning new things.
 It’s also a space where I share my thoughts and experiences in development, hoping they might inspire or help others.
 
 Feel free to browse or share your feedback!
@@ -47,6 +47,9 @@ Feel free to browse or share your feedback!
 |                 | - 🟢 [Reverse string](problems/easy/reverse_string.ts)                           |
 |                 | - 🟢 [Title case](problems/easy/title_case.ts)                                   |
 |                 | - 🟢 [Truncate string](problems/easy/truncate_string.ts)                         |
+|                 | - 🟢 [Contains duplicate](problems/easy/contains_duplicate.ts)                   |
+|                 | - 🟢 [Fibonacci number](problems/easy/fibonacci_number.ts)                       |
+|                 | - 🟢 [Fizzbuzz](problems/easy/fizzbuzz.ts)                                       |
 | tutorials       | Instructions followed to learn about something new. [Link](tutorials/README.md)  |
 | technical-tests | Technical tests:                                                                 |
 |                 | - 😤 [Promo coder](technical-tests/promo-coder/README.md)                        |
