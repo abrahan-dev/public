@@ -52,6 +52,7 @@ Feel free to browse or share your feedback!
 |                 | - 🟢 [Fibonacci bottom up](problems/easy/fibonacci_bottom_up.ts)                 |
 |                 | - 🟢 [Fibonacci memoized](problems/easy/fibonacci_memoized.ts)                   |
 |                 | - 🟢 [Fizzbuzz](problems/easy/fizzbuzz.ts)                                       |
+|                 | - 🟢 [Berlin clock](problems/easy/berlin_clock.ts)                               |
 | tutorials       | Instructions followed to learn about something new. [Link](tutorials/README.md)  |
 | technical-tests | Technical tests:                                                                 |
 |                 | - 😤 [Promo coder](technical-tests/promo-coder/README.md)                        |
