@@ -48,7 +48,9 @@ Feel free to browse or share your feedback!
 |                 | - 🟢 [Title case](problems/easy/title_case.ts)                                   |
 |                 | - 🟢 [Truncate string](problems/easy/truncate_string.ts)                         |
 |                 | - 🟢 [Contains duplicate](problems/easy/contains_duplicate.ts)                   |
-|                 | - 🟢 [Fibonacci number](problems/easy/fibonacci_number.ts)                       |
+|                 | - 🟢 [Fibonacci naive](problems/easy/fibonacci_naive.ts)                         |
+|                 | - 🟢 [Fibonacci bottom up](problems/easy/fibonacci_bottom_up.ts)                 |
+|                 | - 🟢 [Fibonacci memoized](problems/easy/fibonacci_memoized.ts)                   |
 |                 | - 🟢 [Fizzbuzz](problems/easy/fizzbuzz.ts)                                       |
 | tutorials       | Instructions followed to learn about something new. [Link](tutorials/README.md)  |
 | technical-tests | Technical tests:                                                                 |
