@@ -2,9 +2,7 @@
 
 Welcome!
 
-I learn by taking notes and writing down opinions and ideas.
-
-This repository is a collection of public content related to programming learning projects, problems, computer science and programming knowledge I’ve explored while learning new things.
+This repository is a collection of public content related to programming learning projects, problems, computer science and programming knowledge I’ve explored while learning new things, mostly in Typescript.
 
 It’s also a space where I share my thoughts and experiences in development, hoping they might inspire or help others.
 
