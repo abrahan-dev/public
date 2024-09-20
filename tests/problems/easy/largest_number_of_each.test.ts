@@ -1,7 +1,7 @@
 import { expect, test, beforeEach, describe } from 'bun:test'
 import { largest_number_of_each } from '../../../problems/easy/largest_number_of_each'
 
-describe('test group', () => {
+describe('Largest number of each', () => {
     let arrays: number[][]
 
     beforeEach(() => {
@@ -13,12 +13,12 @@ describe('test group', () => {
         ]
     })
 
-    test('should return an array', function () {
+    test('=> an array', function () {
         var response = largest_number_of_each(arrays)
         expect(Array.isArray(response)).toBe(true)
     })
 
-    test('should return [27,5,39,1001]', function () {
+    test('=> [27,5,39,1001]', function () {
         expect(largest_number_of_each(arrays)).toEqual([27, 5, 39, 1001])
     })
 })

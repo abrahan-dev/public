@@ -1,14 +1,10 @@
-import { expect, test, beforeEach, describe } from 'bun:test'
+import { expect, test, describe } from 'bun:test'
 import { title_case } from '../../../problems/easy/title_case'
 
-describe('titleCase test suite', function () {
-    let sentence: string
+describe('Title case', function () {
+    let sentence: string = "I'm a little tea pot"
 
-    beforeEach(function () {
-        sentence = "I'm a little tea pot"
-    })
-
-    test('should return "I\'m A Little Tea Pot"', function () {
+    test('"I\'m a little tea pot" => "I\'m A Little Tea Pot"', function () {
         expect(title_case(sentence)).toEqual("I'm A Little Tea Pot")
     })
 })

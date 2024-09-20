@@ -9,6 +9,6 @@
         "typescript": "^5.0.0"
     },
     "scripts": {
-        "test": "bun test tests/problems"
+        "test": "bun test tests/problems tests/algorithms"
     }
 }
