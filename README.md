@@ -5,6 +5,7 @@ Welcome!
 I learn by taking notes and writing down opinions and ideas.
 
 This repository is a collection of public content related to programming learning projects, problems, computer science and programming knowledge I’ve explored while learning new things.
+
 It’s also a space where I share my thoughts and experiences in development, hoping they might inspire or help others.
 
 Feel free to browse or share your feedback!
@@ -35,7 +36,7 @@ Feel free to browse or share your feedback!
 |                 | - [Ports and adapters](posts/2016-06-06-ports-and-adapters.md)                   |
 |                 | - [Thoughts on DDD](posts/2016-05-25-thoughts-on-ddd.md)                         |
 | algorithms      | About algorithms:                                                                |
-|                 | -                                                                                |
+|                 | - [Binary search](algorithms/binary_search.ts)                                   |
 | data-structures | About data structures:                                                           |
 |                 | - [Array](data-structures/array.ts)                                              |
 | problems        | Programming problems:                                                            |
