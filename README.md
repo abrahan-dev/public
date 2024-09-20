@@ -11,10 +11,10 @@ Feel free to browse or share your feedback!
 ## Index
 
 | Folder          | Content                                                                                       |
-| --------------- | --------------------------------------------------------------------------------------------- | --- |
+| --------------- | --------------------------------------------------------------------------------------------- |
 | cv              | [My professional history](cv/README.md) 💼                                                    |
-| tests           | Tests for problems, algorithms and data structures. `bun run test`. See [bun](https://bun.sh) |     |
-| posts           | Blog:                                                                                         |
+| tests           | Tests for problems, algorithms and data structures. `bun run test`. See [bun](https://bun.sh) |
+| posts           | Latest posts:                                                                                 |
 |                 | - [Transactions](posts/2024-09-09-transactions.md)                                            |
 |                 | - [Exceptions and errors](posts/2024-08-26-exceptions-and-errors.md)                          |
 |                 | - ❤️ [Good code](posts/2023-09-14-good-code.md)                                               |
@@ -33,7 +33,7 @@ Feel free to browse or share your feedback!
 | algorithms      | About algorithms:                                                                             |
 |                 | - [Binary search](algorithms/binary_search.ts)                                                |
 | data-structures | About data structures:                                                                        |
-|                 | - todo                                                                                        |
+|                 | -                                                                                             |
 | problems        | Programming problems:                                                                         |
 |                 | - 🟢 [Running sum](problems/easy/running_sum.ts)                                              |
 |                 | - 🟢 [Factorial](problems/easy/factorial.ts)                                                  |
@@ -46,17 +46,17 @@ Feel free to browse or share your feedback!
 |                 | - 🟢 [Contains duplicate](problems/easy/contains_duplicate.ts)                                |
 |                 | - 🟢 [Fibonacci naive](problems/easy/fibonacci_naive.ts)                                      |
 |                 | - 🟢 [Fibonacci bottom up](problems/easy/fibonacci_bottom_up.ts)                              |
-|                 | - 🟢 [Fibonacci memoized](problems/easy/fibonacci_memoized.ts)                                |
+|                 | - 🟡 [Fibonacci memoized](problems/easy/fibonacci_memoized.ts)                                |
 |                 | - 🟢 [Fizzbuzz](problems/easy/fizzbuzz.ts)                                                    |
 |                 | - 🟢 [Berlin clock](problems/easy/berlin_clock.ts)                                            |
 |                 | - 🟢 [Prime factors](problems/easy/prime_factors.ts)                                          |
 |                 | - 🟢 [Tamagotchi](problems/easy/tamagotchi.ts)                                                |
-|                 | - 🟢 [String calculator](problems/easy/string_calculator.ts)                                  |
+|                 | - 🟡 [String calculator](problems/easy/string_calculator.ts)                                  |
 | tutorials       | Instructions followed to learn about something new. [Link](tutorials/README.md)               |
 | technical-tests | Technical tests:                                                                              |
 |                 | - 😤 [Promo coder](technical-tests/promo-coder/README.md)                                     |
 |                 | - 🙂 [Reconciler](technical-tests/reconciler/README.md)                                       |
 |                 | - 😍 [War game](technical-tests/war-game/README.md)                                           |
 | projects        | Application learning projects:                                                                |
-|                 | - [Architecture for typescript with DDD](projects/architecture-ts-ddd/README.md)              |
+|                 | - ❤️ [Architecture for typescript with DDD](projects/architecture-ts-ddd/README.md)           |
 |                 | - [Menus a la carta](projects/menus-a-la-carta/README.md)                                     |
