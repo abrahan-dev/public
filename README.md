@@ -53,6 +53,7 @@ Feel free to browse or share your feedback!
 |                 | - 🟢 [Berlin clock](problems/easy/berlin_clock.ts)                                            |
 |                 | - 🟢 [Prime factors](problems/easy/prime_factors.ts)                                          |
 |                 | - 🟢 [Tamagotchi](problems/easy/tamagotchi.ts)                                                |
+|                 | - 🟢 [String calculator](problems/easy/string_calculator.ts)                                  |
 | tutorials       | Instructions followed to learn about something new. [Link](tutorials/README.md)               |
 | technical-tests | Technical tests:                                                                              |
 |                 | - 😤 [Promo coder](technical-tests/promo-coder/README.md)                                     |
