@@ -33,7 +33,7 @@ Feel free to browse or share your feedback!
 | algorithms      | About algorithms:                                                                             |
 |                 | - [Binary search](algorithms/binary_search.ts)                                                |
 | data-structures | About data structures:                                                                        |
-|                 | -                                                                                             |
+|                 | - todo                                                                                        |
 | problems        | Programming problems:                                                                         |
 |                 | - 🟢 [Running sum](problems/easy/running_sum.ts)                                              |
 |                 | - 🟢 [Factorial](problems/easy/factorial.ts)                                                  |
