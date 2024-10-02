@@ -4,15 +4,15 @@
 
 I am a **senior software developer** with a focus on web applications.
 
-Since 2012, I have been developing both backends and frontends across various industries, including banking, accounting, healthcare, tourism, and risk management. My expertise lies in applying clean code principles to effectively address business challenges.
+Since 2012, I have been developing both **backends and frontends** across various industries, including banking, accounting, healthcare, tourism, and risk management. My expertise lies in applying clean code principles to effectively address business challenges.
 
-I frequently work within the **JavaScript ecosystem**, including both front and backend technologies such as TypeScript, Node.js, Bun, TypeORM, Sequelize, Vue, and React. I am also proficient in databases like MySQL and PostgreSQL. In the first half of my career, I worked extensively with the PHP ecosystem, including frameworks like Symfony, FuelPHP, Zend and Laravel. Additionally, I incorporate AI tools into my daily workflow to enhance productivity and problem-solving.
+I frequently work within the **JavaScript ecosystem**, including both front and backend technologies such as TypeScript, Node.js, Bun, TypeORM, Sequelize, Vue, and React. I am also proficient in databases like MySQL and PostgreSQL. The first years of my career I worked extensively with the PHP ecosystem, including frameworks like Symfony, FuelPHP, Zend and Laravel. Additionally, I incorporate AI tools into my daily workflow to enhance productivity and problem-solving.
 
-As a thoughtful, self-driven, and open-minded professional, I am dedicated to problem-solving and constantly improving my skills. I value minimalist, efficient, and high-quality code, and am always eager to learn and share knowledge. While I enjoy collaborating with teams, I also thrive in remote work environments that allow for flexibility and focus.
+As a thoughtful, self-driven professional, I am dedicated to problem-solving and constantly improving my skills. I value minimalist, efficient, and **high-quality code**, and I am always eager to learn and share knowledge. While I enjoy collaborating with teams, I also thrive in remote work environments that allow for flexibility and focus.
 
-I am seeking **roles with leadership responsibilities**, such as Lead Developer, Technical Lead, or Junior CTO. I also have a strong interest in positions related to quality assurance and testing. Additionally, I am open to exploring opportunities in related fields that involve more management responsibilities.
+I am seeking roles with **leadership responsibilities**, such as Lead Developer, Technical Lead, or Junior CTO. I also have a strong interest in positions related to quality assurance and testing. Additionally, I am open to exploring opportunities in related fields that involve management responsibilities.
 
-I am also open to partnering with individuals who have innovative business ideas, offering my expertise to help develop and bring those ideas to life.
+I am also **open to partnering** with individuals who have innovative business ideas, offering my expertise to help develop and bring those ideas to life.
 
 ## Professional Experience
 
