@@ -15,6 +15,7 @@ Feel free to browse or share your feedback!
 | cv              | [My professional history](cv/README.md) 💼                                                    |
 | tests           | Tests for problems, algorithms and data structures. `bun run test`. See [bun](https://bun.sh) |
 | posts           | Latest posts:                                                                                 |
+|                 | - [Database views](posts/2024-10-01-database-views.md)                                                          |
 |                 | - [Cache](posts/2024-09-20-cache.md)                                                          |
 |                 | - [Transactions](posts/2024-09-09-transactions.md)                                            |
 |                 | - [Exceptions and errors](posts/2024-08-26-exceptions-and-errors.md)                          |
