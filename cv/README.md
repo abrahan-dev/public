@@ -16,6 +16,15 @@ I am also **open to partnering** with individuals who have innovative business i
 
 ## Professional Experience
 
+### Software engineer
+
+**Dougs** — Lyon  
+_August 2024 – Current_
+
+- Domain: Accounting.
+- I’m helping by programming new features to drive adoption of the invoicing modules.
+- Node.js, Typescript, Nest.js, Angular, Kubernetes, Domain driven design, Shape Up.
+
 ### Lead developer
 
 **Siradel** — Lyon  
@@ -63,7 +72,7 @@ _January 2014 – December 2016_
 - I connected travel providers APIs and our platform.
 - PHP5, FuelPhp, Jquery, Backend and Frontend, CSS, HTML, svn, SQL.
 
-### Junior Business intelligence consultant
+### Junior Business Intelligence Consultant
 
 **Keyrus** — Madrid  
 _July 2012 – January 2014_
@@ -75,7 +84,7 @@ _July 2012 – January 2014_
 - I learnt a lot about aggregation of complex data sets and performance of SQL queries.
 - SQL, Power BI, PL/SQL, ETL, Cognos.
 
-### Junior Fullstack developer
+### Junior Fullstack Developer
 
 **Dig it! Open source systemhaus** — Berlin  
 _March 2012 – July 2012_
@@ -110,7 +119,7 @@ _2010 – 2012_
 ## Languages
 
 | Languages | Proficiency                   |
-| --------- | ----------------------------- |
+|-----------|-------------------------------|
 | Spanish   | Native                        |
 | English   | Full professional proficiency |
 | French    | Full professional proficiency |
@@ -141,20 +150,19 @@ _2010 – 2012_
 
 I do a lot of self-learning but this is a list of some courses I have followed:
 
-| Name | Platform | Year |
-| - | - | - |
-| Java web programming with 3 layers | Universidad Politécnica de Madrid | 2012 |
-| MongoDB for Node.js developers | MongoDb University | 2015 |
-| Nest.js fundamentals | Nest.js | 2019 |
-| SOLID principles | Codely | 2020 |
-| Microservices communication: Event driven architecture | Codely | 2020 |
-| Docker: from 0 to deployment | Codely | 2021 |
-| Kubernetes for developers | Codely | 2021 |
-| AWS: autoscaling with ALB and ASG | Codely | 2021 |
-| Domain modeling: Exceptions vs Errors | Codely | 2024 |
-| Domain driven design with Typescript | Codely | 2024 |
-| Infrastructure design: Cache | Codely | 2024 |
-| Infrastructure design: Transactions | Codely | 2024 |
+| Name                                                   | Platform                          | Year |
+|--------------------------------------------------------|-----------------------------------|------|
+| Java web programming with 3 layers                     | Universidad Politécnica de Madrid | 2012 |
+| MongoDB for Node.js developers                         | MongoDb University                | 2015 |
+| Nest.js fundamentals                                   | Nest.js                           | 2019 |
+| SOLID principles                                       | Codely                            | 2020 |
+| Microservices communication: Event driven architecture | Codely                            | 2020 |
+| Docker: from 0 to deployment                           | Codely                            | 2021 |
+| Kubernetes for developers                              | Codely                            | 2021 |
+| AWS: autoscaling with ALB and ASG                      | Codely                            | 2021 |
+| Domain modeling: Exceptions vs Errors, Projections     | Codely                            | 2024 |
+| Domain driven design with Typescript                   | Codely                            | 2024 |
+| Infrastructure design: Transactions, Cache, Views      | Codely                            | 2024 |
 
 ## Contact information
 
