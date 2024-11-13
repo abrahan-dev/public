@@ -13,7 +13,7 @@ It’s also a space where I share my thoughts and experiences in development.
 | cv              | [My professional history](cv/README.md) 💼                                                                          |
 | tests           | Tests for problems, algorithms and data structures written in Typescript. `bun run test`. See [bun](https://bun.sh) |
 | posts           | Latest posts:                                                                                                       |
-|                 | - [Projections](posts/2024-11-17-projections)                                                                       |
+|                 | - [Projections](posts/2024-11-17-projections.md)                                                                    |
 |                 | - [Database views](posts/2024-10-01-database-views.md)                                                              |
 |                 | - [Cache](posts/2024-09-20-cache.md)                                                                                |
 |                 | - [Transactions](posts/2024-09-09-transactions.md)                                                                  |
