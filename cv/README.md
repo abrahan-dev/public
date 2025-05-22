@@ -14,6 +14,11 @@ I prefer leadership roles (Lead Developer, Technical Lead) but am open to opport
 
 ## Professional Experience
 
+### Software architect
+
+**XXXX** — Lyon  
+_September 2025 – Current_
+
 ### Software engineer
 
 **Dougs** — Lyon  
@@ -125,24 +130,17 @@ _2010 – 2012_
 ## Skills
 
 - Languages: Typescript, Javascript, PHP. I have used Python, C, Java, C# and play with many others like Clojure, OCaml, C++, Rust or Go.
-- Javascript runtime: Node.js, Bun.
-- Javascript backend frameworks: Nest.js, Express.js.
-- Javascript frontend frameworks: Vue.js, React (and some Next.js).
-- PHP frameworks: Zend and FuelPHP mostly, but some Laravel, WordPress and Symfony as well.
+- JS ecosystem: Node.js, Bun, Nest.js, Express.js, Vue.js, React (and some Next.js).
+- PHP ecosystem: Zend and FuelPHP mostly, but some Laravel, WordPress and Symfony as well.
 - Vue ecosystem: Pinia, Vite, Vue router.
-- Testing frameworks: Jest, Robot framework, Cypress.io, PhpUnit.
-- Architecture: Clean architecture and SOLID principles, Hexagonal architecture, Onion architecture.
-- Basic knowledge of DevOps: CI/CD, Jenkins, GitLab CI, Github actions.
-- Basic knowledge of AWS main services (EC2, S3, RDS, Lambda, SNS, SQS…)
-- Docker.
-- Teamwork and leadership.
+- Testing: TDD, Unit tests, E2E tests, Jest, Robot framework, Cypress.io, PhpUnit.
+- Architecture: Clean architecture and SOLID principles, Hexagonal architecture, CQRS.
+- DevOps: Basic CI/CD, Docker, Jenkins, GitLab CI, Github actions, AWS main services (EC2, S3, RDS, Lambda, SNS, SQS…).
 - Agile methodologies: Scrum, Kanban, Shape up.
-- Object oriented programming.
-- Testing: TDD, Unit tests, E2E tests.
 - Databases: SQL, MySql, PosgreSql, Basic knowledge of noSql (MongoDb, ElasticSearch).
-- Git.
-- Basic knowledge of CSS and frameworks like Bootstrap or Tailwind.
-- APIs: REST, GraphQL (some SOAP and RPC as well).
+- UI: Basic knowledge of CSS and frameworks like Bootstrap or Tailwind.
+- APIs: RestFul, GraphQL (some SOAP and RPC as well).
+- Other: DDD, Analysis, Teamwork and leadership, OOP, Git.
 
 ## Courses
 
