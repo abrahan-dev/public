@@ -127,7 +127,7 @@ _2010 – 2012_
 - Languages: Typescript, Javascript, PHP. I have used Python, C, Java, C# and play with many others like Clojure, OCaml, C++, Rust or Go.
 - Javascript runtime: Node.js, Bun.
 - Javascript backend frameworks: Nest.js, Express.js.
-- Javascript frontend frameworks: Vue.js, some React with Next.js.
+- Javascript frontend frameworks: Vue.js, React (and some Next.js).
 - PHP frameworks: Zend and FuelPHP mostly, but some Laravel, WordPress and Symfony as well.
 - Vue ecosystem: Pinia, Vite, Vue router.
 - Testing frameworks: Jest, Robot framework, Cypress.io, PhpUnit.
@@ -136,13 +136,13 @@ _2010 – 2012_
 - Basic knowledge of AWS main services (EC2, S3, RDS, Lambda, SNS, SQS…)
 - Docker.
 - Teamwork and leadership.
-- Methodologies: Scrum, Kanban, Shape up.
+- Agile methodologies: Scrum, Kanban, Shape up.
 - Object oriented programming.
 - Testing: TDD, Unit tests, E2E tests.
 - Databases: SQL, MySql, PosgreSql, Basic knowledge of noSql (MongoDb, ElasticSearch).
 - Git.
 - Basic knowledge of CSS and frameworks like Bootstrap or Tailwind.
-- Rest APIs.
+- APIs: REST, GraphQL (some SOAP and RPC as well).
 
 ## Courses
 
