@@ -39,15 +39,15 @@ I think guard clauses, expressive names and early returns works just fine in thi
 I have created the Fleet manager, following
 the [Instructions.](https://github.com/fulll/hiring/blob/master/Backend/ddd-and-cqrs-intermediare-senior.md)
 
-**Run bdd tests**
+### Run bdd tests
 
 ```bash
 docker compose run app bun run test:bdd
 ```
 
-**Connect to the database and check the data if you like**
+### Connect to the database and check the data if you like
 
-```
+```env
 user: user
 password: password
 database: fleet
@@ -55,7 +55,7 @@ database: fleet
 jdbc:postgresql://localhost:5432/fleet
 ```
 
-**Run the cli application**
+### Run the cli application
 
 ```bash
 docker compose run app bun fleet.ts
@@ -64,7 +64,7 @@ docker compose run app bun fleet.ts register-vehicle <fleet-id> 34-MDC-56
 docker compose run app bun fleet.ts localize-vehicle <fleet-id> 34-MDC-56 37.7749 -122.4194 15.7
 ```
 
-**Step 3**
+### Step 3
 
 Quality tools may include: Linting, formatting, testing, static analysis, security checks and CI/CD.
 
@@ -77,17 +77,18 @@ Quality tools may include: Linting, formatting, testing, static analysis, securi
 | **Security**        | Snyk, ESLint Security Plugin | Vulnerability detection                        |
 | **CI/CD**           | GitHub Actions, Docker       | Automate tests & deployments                   |
 
-- We can work to standardize the tools and configurations across the team. 
+- We can work to standardize the tools and configurations across the team.
 - We can use _.editorconfig_ files and other tools to enforce the standards as _pre-commit hooks_.
 - Whenever we develop new features that involve new external APIs, libraries or new client data we may consult security experts to make sure we are not introducing vulnerabilities.
 - Once we have integrated the tools, we can create a CI/CD pipeline that runs the tests and checks the quality of the code before being able to merge it to the main branch.
 - CI pipeline is great to catch bugs early and to make sure the code is always in a deployable state.
 - CD pipeline is great to automate the deployment process and minimize human errors in the process.
 
-**CI**
+### CI
 
 I have created a very simple CI pipeline using GitHub Actions => [.github/workflows/ci.yml](.github/workflows/ci.yml)
 I would add a real database to the mix and run the BDD tests against it. Something along the lines (not tested):
+
 ```yaml
 name: Lint & Test
 
@@ -140,7 +141,7 @@ jobs:
         run: bun run test:bdd
 ```
 
-**Run the linter**
+### Run the linter
 
 ```bash
 docker compose run app bun run lint

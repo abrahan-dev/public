@@ -55,6 +55,7 @@ It’s also a space where I share my thoughts and experiences in development.
 |                 | - 🟡 [String calculator](problems/easy/string_calculator.ts)                                                        |
 | tutorials       | Instructions followed to learn about something new. [Link](tutorials/README.md)                                     |
 | technical-tests | Technical tests:                                                                                                    |
+|                 | - 😤 [Fleet manager](technical-tests/fleet/README.md)                                                               |
 |                 | - 😤 [Promo coder](technical-tests/promo-coder/README.md)                                                           |
 |                 | - 🙂 [Reconciler](technical-tests/reconciler/README.md)                                                             |
 |                 | - 😍 [War game](technical-tests/war-game/README.md)                                                                 |

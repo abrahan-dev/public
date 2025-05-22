@@ -2,24 +2,22 @@
 
 ## Summary
 
-I am a **senior software developer** with a focus on web applications.
+Senior software developer specializing in web (SaaS) applications (+12 yrs).
 
-Since 2012, I have been developing both **backends and frontends** across various industries, including banking, accounting, healthcare, tourism, and risk management. My expertise lies in applying clean code principles to effectively address business challenges.
+Experienced in backend and frontend across industries like banking, accounting, healthcare, tourism, and risk management, with a primary focus on backend engineering.
 
-I frequently work within the **JavaScript ecosystem**, including both front and backend technologies such as TypeScript, Node.js, Bun, TypeORM, Sequelize, Vue, and React. I am also proficient in databases like MySQL and PostgreSQL. The first years of my career I worked extensively with the PHP ecosystem, including frameworks like Symfony, FuelPHP, Zend and Laravel. Additionally, I incorporate AI tools into my daily workflow to enhance productivity and problem-solving.
+Proficient in TypeScript/JavaScript, Node.js/Bun, and PHP (strong experience with Zend, some work with Laravel/Symfony), plus databases like MySQL and PostgreSQL. Worked with frontend technologies, mainly Vue and lately React. Quick to adapt to new frameworks, languages and methodologies.
 
-As a thoughtful, self-driven professional, I am dedicated to problem-solving and constantly improving my skills. I value minimalist, efficient, and **high-quality code**, and I am always eager to learn and share knowledge. While I enjoy collaborating with teams, I also thrive in remote work environments that allow for flexibility and focus.
+Passionate about clean code, AI-driven workflows and problem-solving.
 
-I am seeking roles with **leadership responsibilities**, such as Lead Developer, Technical Lead, or Junior CTO. I also have a strong interest in positions related to quality assurance and testing. Additionally, I am open to exploring opportunities in related fields that involve management responsibilities.
-
-I am also **open to partnering** with individuals who have innovative business ideas, offering my expertise to help develop and bring those ideas to life.
+I prefer leadership roles (Lead Developer, Technical Lead) but am open to opportunities like Junior CTO, Engineering Manager, Quality Assurance, or Senior Developer.
 
 ## Professional Experience
 
 ### Software engineer
 
 **Dougs** — Lyon  
-_August 2024 – Current_
+_August 2024 – August 2025_
 
 - Domain: Accounting.
 - I’m helping by programming new features to drive adoption of the invoicing modules.
@@ -148,7 +146,7 @@ _2010 – 2012_
 
 ## Courses
 
-I do a lot of self-learning but this is a list of some courses I have followed:
+I do a lot of self-learning but this is a list of some interesting courses I have followed:
 
 | Name                                                   | Platform                          | Year |
 |--------------------------------------------------------|-----------------------------------|------|
@@ -166,6 +164,6 @@ I do a lot of self-learning but this is a list of some courses I have followed:
 
 ## Contact information
 
-**Email**: <ab.mesa@icloud.com>  
+**Email**: <abmesamesa@gmail.com>  
 **LinkedIn**: <https://www.linkedin.com/in/abrahanmesa/>  
 **Github**: <https://github.com/abrahan-dev>
