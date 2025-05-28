@@ -13,6 +13,7 @@ It’s also a space where I share my thoughts and experiences in development.
 | cv              | [My professional history](cv/README.md) 💼                                                                          |
 | tests           | Tests for problems, algorithms and data structures written in Typescript. `bun run test`. See [bun](https://bun.sh) |
 | posts           | Latest posts:                                                                                                       |
+|                 | - [Model Context Protocol](posts/2025-05-28-model-context-protocol.md)                                                                    |
 |                 | - [Projections](posts/2024-11-17-projections.md)                                                                    |
 |                 | - [Database views](posts/2024-10-01-database-views.md)                                                              |
 |                 | - [Cache](posts/2024-09-20-cache.md)                                                                                |
@@ -55,7 +56,7 @@ It’s also a space where I share my thoughts and experiences in development.
 |                 | - 🟡 [String calculator](problems/easy/string_calculator.ts)                                                        |
 | tutorials       | Instructions followed to learn about something new. [Link](tutorials/README.md)                                     |
 | technical-tests | Technical tests:                                                                                                    |
-|                 | - 😤 [Fleet manager](technical-tests/fleet/README.md)                                                               |
+|                 | - 🙂 [Fleet manager](technical-tests/fleet/README.md)                                                               |
 |                 | - 😤 [Promo coder](technical-tests/promo-coder/README.md)                                                           |
 |                 | - 🙂 [Reconciler](technical-tests/reconciler/README.md)                                                             |
 |                 | - 😍 [War game](technical-tests/war-game/README.md)                                                                 |
